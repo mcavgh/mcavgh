@@ -1,28 +1,28 @@
-<h1 align="center">Hey there! 👋 Soy Martin Cavanagh</h1>
+<h1 align="center">Hey there! 👋 I'm Martin Cavanagh</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="200" />
 </p>
 
 <p align="center">
-  🧠 Full Stack Developer | ⚙️ DevOps Learner | 🛠️ Code Troubleshooter | 🌐 React & Node Specialist
+  🧠 Full Stack Developer | ⚙️ DevOps Enthusiast | 🛠️ Bug Fixer | 🌐 React & Node Specialist
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-- 💻 Me especializo en **React**, **React Native**, **Node.js**, y **testing avanzado**.
-- 🔍 Disfruto encontrar y resolver bugs 🐞 antes de que lo hagan los usuarios.
-- ☁️ Trabajo con **AWS** y flujos **CI/CD con GitHub Actions**.
-- 🛠️ Me gusta construir productos **B2B** que escalen.
-- 📚 Estudio **DevOps**, hacking ético y arquitecturas modernas.
+- 💻 Passionate about building robust and scalable web apps.
+- 🔍 Obsessed with troubleshooting and solving bugs before users do.
+- ☁️ Working with **AWS** and automating **CI/CD** pipelines via GitHub Actions.
+- 🛠️ Experienced in delivering **B2B** solutions with performance and UX in mind.
+- 📚 Constantly learning DevOps, ethical hacking, and modern web architectures.
 
 ---
 
 ## 🧰 Tech Stack
 
-### 👨‍🎨 Frontend
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
@@ -58,20 +58,19 @@
 
 ---
 
-## ⚡ Últimos proyectos destacados
+## ⚡ Featured Projects
 
-| 🚀 Proyecto | 💬 Descripción | 🔗 Link |
-|------------|----------------|--------|
-| **EATX E-Commerce** | Plataforma completa con React, Node, CI/CD y PostgreSQL | [🔗 GitHub](https://github.com/mcavgh/eatx) |
-| **Vivawell App** | App móvil en React Native + NativeModules personalizados | [🔗 GitHub](https://github.com/mcavgh/vivawell-app) |
-| **FHIR Data Mapper** | Transformador FHIR → estructuras clínicas personalizadas | *Privado* |
+| 🚀 Project | 💬 Description | 🔗 Link |
+|-----------|----------------|--------|
+| **EATX E-Commerce** | Full-stack e-commerce platform using React, Node, PostgreSQL, and CI/CD | [🔗 GitHub](https://github.com/mcavgh/eatx) |
+| **Vivawell App** | React Native mobile app with custom native modules | [🔗 GitHub](https://github.com/mcavgh/vivawell-app) |
+| **FHIR Data Mapper** | FHIR to custom clinical structure transformer | *Private Repository* |
 
 ---
 
-## 🤝 Conectemos
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/martincavanagh/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat)](#)
 [![Gmail](https://img.shields.io/badge/-martin.cavanagh@gmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:martin.cavanagh@gmail.com)
 
 ---
